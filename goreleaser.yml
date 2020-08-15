@@ -1,5 +1,5 @@
 builds:
-  - main: ./cmd/youtubedr
+  - main: ./v2/cmd/youtubedr
     binary: youtubedr
     goos:
       - windows

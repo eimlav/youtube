@@ -1,4 +1,4 @@
-module github.com/eimlav/youtube
+module github.com/eimlav/youtube/v2
 
 go 1.15
 
